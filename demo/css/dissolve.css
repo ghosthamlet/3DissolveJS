@@ -1,0 +1,112 @@
+/* ==========================================================================
+ * dissolve.css
+ *
+ * Written by Kostas Symeonidis
+ * Copyright (c)2011, CyLog Software
+ * ==========================================================================
+ * History:
+ *
+ * 05.Mar.2011  Started
+ * ==========================================================================
+ * Stylesheet for 3D Dissolve JS
+ * ==========================================================================
+ * "3D Dissolve JS" License
+ * GNU General Public License version 3.0 (GPLv3)
+ * ==========================================================================
+ * This file is part of "3D Dissolve JS"
+ *
+ * "3D Dissolve JS" is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * "3D Dissolve JS" is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with "3D Dissolve JS". If not, see <http://www.gnu.org/licenses/>.
+ * ==========================================================================
+ */
+
+* {
+  font-family: Tahoma, Verdana, Arial, Helvetica, Sans serif;
+  font-size: 8pt;
+  margin: 0px;
+  padding: 2px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  color: #666;
+  background-color: black;
+}
+
+h1 {
+  font-size: 12pt;
+  color: #aaa;
+    height: 24px;
+}
+
+h2 {
+  font-size: 9pt;
+  margin: 12px 0px 0px 0px;
+  color: #444;
+}
+
+p.copyright {
+  margin: 0 0 4px 0;
+  font-size: 8pt;
+  color: #666;
+}
+
+#controls { overflow: hidden; }
+
+p.controls {
+  margin: 0 0 8px 12px;
+  color : #555;
+}
+
+#frameCounter {
+  color : #999;
+}
+
+#canvas {
+  background-color: #000;
+  /*
+  border: 1px solid #999;
+  padding: 1px;
+  */
+}
+
+a {
+  text-decoration: none;
+  color: #669;
+}
+
+#about {
+  display: none;
+  position: absolute;
+  right: 20px;
+  top: 60px;
+  width: 520px;
+  height: auto;
+  color: #777;
+  background-color: #222;
+  opacity: 0.8;
+  border: 1px #444 solid;
+}
+
+div.social-links {
+    display:block;
+    float:right;
+    margin-right: 24px;
+}
+
+div.social-link {
+    float: left;
+    height: 21px;
+    width: 90px;
+}
