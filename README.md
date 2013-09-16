@@ -1,6 +1,6 @@
 http://ghosthamlet.github.io/3DissolveJS
 
-Written by Kostas Symeonidis, http://www.cylog.org/utils_1.asp
+Written by Kostas Symeonidis (I'm not the author), http://www.cylog.org/utils_1.asp
 
 Copyright (c)2009-2011, CyLog Software
 
